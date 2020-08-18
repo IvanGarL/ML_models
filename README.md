@@ -1,6 +1,6 @@
 # ML_models 
 ## coauthor : [dgiraldo95m](https://github.com/dgiraldom95)
-In construction: :construction_worker:
+In construction: :construction_worker:  ...  
 <em>**A first approach to different Machine learning models using Sklearn Python library and following the CRISP-DM methodology**</em>
 
 ## 1. KNN vs Linear Reg vs Polynomial Reg:
@@ -12,4 +12,7 @@ The 2nd step was introduce the concept of regularization using Ridge and Lasso m
 At the end we implement a Logistic Reg model to accomplish a binary classification task, showing the classic Precision/Recall trade-off in the training process of the model. 
 
 ## 3. SVM with unbalanced data:
-The 3rd task was to implement 
+In construction: :construction_worker:  ...  
+
+## 4. Naive Bayes, Bernoulli Bayes & Multinomial Bayes for articles classification:
+In construction: :construction_worker:  ...  
